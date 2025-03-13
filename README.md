@@ -19,6 +19,9 @@ Dimostrare il funzionamento di un amplificatore in classe D e approfondire l'uso
 📌 **Autore**: Riccardo Beniamino  
 📚 **Corso**: Analisi ed elaborazione dei segnali DISIM UnivAQ
 
+⭐ **Supporta il progetto**: Se questo repository ti è stato utile, lascia una **⭐ Star**! è gratis, pulsante in alto a destra.
+
+🔍 **Tag**: `Tesina` `pdf` `Teoria dei segnali` `Analisi ed elaborazione dei segnali` `DISIM` `DIIIE` `UnivAQ` `MATLAB`
 
 Alcune foto, scattate durante le prove:
 ![2](https://github.com/riccardobeniamino/TeoriaDeiSegnali/blob/main/2.jpg)
